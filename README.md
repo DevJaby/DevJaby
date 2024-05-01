@@ -11,9 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevJaby&theme=dracula&border_radius=6&locale=ko&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)
 -->
 
+
 # 반가워요!
+
 
 <p>
   개발하는 디자이너 정복입니다.
@@ -33,4 +36,6 @@ Here are some ideas to get you started:
 ![ae](https://github.com/DevJaby/DevJaby/assets/161338683/8c8951b0-e877-404c-ad84-d71bc7b58184)
 
 
+
 ![DevJaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJaby&show_icons=true&theme=dark)
+
