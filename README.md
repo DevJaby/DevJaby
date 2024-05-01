@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Ola Amigos!
+# 정복
 
 <p>
   Me Ritam<br>
-  Nice to meet Ya!
+ 안녕하세요 🤗
   <p align="right">
     <img src="./assets/hello-dark.gif#gh-light-mode-only" alt="hello-dark" height="220" width="210" />
     <img src="./assets/hello-light.gif#gh-dark-mode-only" alt="hello-light" height="220" width="210" />
