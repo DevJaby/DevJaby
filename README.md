@@ -24,4 +24,8 @@ Here are some ideas to get you started:
   </p>
 </p>
 
+![swift](https://github.com/DevJaby/DevJaby/assets/161338683/328838d1-e08d-455c-8cc6-44b1657a4179)
+![figma](https://github.com/DevJaby/DevJaby/assets/161338683/958b0962-3697-4c84-9d46-e0e183378d7a)
+
+
 ![DevJaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJaby&show_icons=true&theme=dark)
