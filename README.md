@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   안녕하세요 🤗<br>
- 개발하는 디자이너 정복입니다
+  개발하는 디자이너 정복입니다.
   <p align="right">
     <img src="./assets/hello-dark.gif#gh-light-mode-only" alt="hello-dark" height="220" width="210" />
     <img src="./assets/hello-light.gif#gh-dark-mode-only" alt="hello-light" height="220" width="210" />
